@@ -1,4 +1,4 @@
-// solicita un dato al usuario y lo transforma de string a tipo numérico number
+// dato de string a tipo numérico number
 let n1 = Number("3"); 
 let n2 = Number("6");
 let n3 = Number("9");
