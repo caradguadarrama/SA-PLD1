@@ -1,4 +1,7 @@
 // dato de string a tipo numérico number
+// let n1 = Number(prompt("Ingresa el primer número:"));
+// let n2 = Number(prompt("Ingresa el segundo número:"));
+// let n3 = Number(prompt("Ingresa el tercer número:"));
 let n1 = Number("3"); 
 let n2 = Number("6");
 let n3 = Number("9");
